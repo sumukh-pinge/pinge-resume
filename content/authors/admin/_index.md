@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Sumukh Pinge
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Sumukh
+last_name: Pinge
 
 # Status emoji
 status:
@@ -17,34 +17,32 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of California, San Diego
+    url: https://ucsd.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a 2nd Year PhD Student, advised by Prof. Tajana Šimunić Rosing at System Energy Efficiency Lab.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Reconfigurable Computing
+  - Hardware Acceleration
+  - Bioinformatics
+  - Hyperdimensional Computing
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Science and Engineering
+      institution: University of California San Diego
+      year: 2022-2027 (Exp)
+    - course: B.E Electronics and Instrumentation
+      institution: Birla Institute of Technology and Science (BITS), Pilani
+      year: 2018-2022
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -66,25 +64,20 @@ skills:
         percent: 40
         icon: database
         icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+#  - name: Hobbies
+#    color: '#eeac02'
+#    color_border: '#f0bf23'
+#    items:
+#      - name: Hiking
+#        description: ''
+#        percent: 60
+#        icon: person-hiking
+#        icon_pack: fas
+#      - name: Cats
+#        description: ''
+#        percent: 100
+#        icon: cat
+#        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -103,22 +96,22 @@ social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+#  - icon: github
+#    icon_pack: fab
+#    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/s-pinge/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://drive.google.com/file/d/14Z8CwN9mt_I4qO1bcPh8JNHcafY2uRfr/view?usp=sharing
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a 2nd Year PhD Student, advised by Prof. Tajana Šimunić Rosing at System Energy Efficiency Lab.
 {style="text-align: justify;"}
