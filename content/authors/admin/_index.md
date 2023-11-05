@@ -46,24 +46,24 @@ education:
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
+# skills:
+#  - name: Technical
+#    items:
+#      - name: Python
+#        description: ''
+#        percent: 80
+#        icon: python
+#        icon_pack: fab
+#      - name: Data Science
+#        description: ''
+#        percent: 100
+#        icon: chart-line
+#        icon_pack: fas
+#      - name: SQL
+#        description: ''
+#        percent: 40
+#        icon: database
+#        icon_pack: fas
 #  - name: Hobbies
 #    color: '#eeac02'
 #    color_border: '#f0bf23'
@@ -86,16 +86,16 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: "spinge@ucsd.edu"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/PingeSumukh
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+#    icon_pack: fas
+#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/gcushen
@@ -113,5 +113,5 @@ social:
 highlight_name: true
 ---
 
-I am a 2nd Year PhD Student, advised by Prof. Tajana Šimunić Rosing at System Energy Efficiency Lab.
+Greetings! I am Sumukh Pinge, a 2nd-year Ph.D. student at the University of California, San Diego, affiliated with the Computer Science and Engineering department. I am part of the Systems Energy Efficiency Lab (SEELab) under the proficient guidance of Prof. Tajana Rosing. My research is primarily aimed at advancing the end-to-end acceleration of mass spectrometry applications and workloads through innovative architectural designs and hardware acceleration techniques. Should you have any queries or require further insight into my work, feel free to connect with me!
 {style="text-align: justify;"}
